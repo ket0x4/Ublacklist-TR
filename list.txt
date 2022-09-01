@@ -1,0 +1,22 @@
+# Scam siteler
+*://iiwo.verkoopeffect.nl/*
+*://ja-zum-energiegesetz.ch/*
+*://mgri.draagdoekshop.nl/*
+*://stomatologiyaapolloniya.ru/*
+*://vivg.chiaraluisetto.it/*
+
+# Haber siteleri
+*://*.odatv4.com/*
+*://*.haberturk.com/*
+*://*.milliyet.com.tr/*
+*://*.sabah.com.tr/*
+*://*.hurriyet.com.tr/*
+*://*.cnnturk.com/*
+*://*.yeniakit.com.tr/*
+*://*.mynet.com/*
+*://*.fanatik.com.tr/*
+*://*.haberler.com/*
+*://*.fotomac.com.tr/*
+*://*.sozcu.com.tr/*
+*://*.ntv.com.tr/*
+*://*.ahaber.com.tr/*
