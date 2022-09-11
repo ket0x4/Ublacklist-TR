@@ -20,3 +20,12 @@
 *://*.sozcu.com.tr/*
 *://*.ntv.com.tr/*
 *://*.ahaber.com.tr/*
+*://*.tgrthaber.com.tr/*
+*://*.takvim.com.tr/*
+*://*.t24.com.tr/*
+*://*.cumhuriyet.com.tr/*
+*://*.dw.com/*
+*://*.birgun.net/*
+*://*.ensonhaber.com/*
+*://*.yenisafak.com/*
+*://*.aspor.com.tr/*
